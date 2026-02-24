@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="LoanTable.Application/LoanTable.Application.csproj" />
+  <Project Path="LoanTable.Domain/LoanTable.Domain.csproj" />
+  <Project Path="LoanTable.Infrastructure/LoanTable.Infrastructure.csproj" />
+  <Project Path="LoanTable/LoanTable.csproj" />
+</Solution>

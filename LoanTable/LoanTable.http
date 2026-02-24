@@ -1,0 +1,6 @@
+@LoanTable_HostAddress = http://localhost:5182
+
+GET {{LoanTable_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

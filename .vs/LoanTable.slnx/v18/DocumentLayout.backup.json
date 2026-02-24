@@ -1,0 +1,451 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14788134-FFE2-4D3E-DE0F-75489D251BE5}|LoanTable\\LoanTable.csproj|c:\\users\\aniket\\downloads\\microservices\\microservices\\loantable\\loantable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14788134-FFE2-4D3E-DE0F-75489D251BE5}|LoanTable\\LoanTable.csproj|solutionrelative:loantable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14788134-FFE2-4D3E-DE0F-75489D251BE5}|LoanTable\\LoanTable.csproj|c:\\users\\aniket\\downloads\\microservices\\microservices\\loantable\\loantable\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14788134-FFE2-4D3E-DE0F-75489D251BE5}|LoanTable\\LoanTable.csproj|solutionrelative:loantable\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0415C8-3AA4-57C6-62F7-E6C3F2DE2121}|LoanTable.Infrastructure\\LoanTable.Infrastructure.csproj|c:\\users\\aniket\\downloads\\microservices\\microservices\\loantable\\loantable.infrastructure\\repository\\loanaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0415C8-3AA4-57C6-62F7-E6C3F2DE2121}|LoanTable.Infrastructure\\LoanTable.Infrastructure.csproj|solutionrelative:loantable.infrastructure\\repository\\loanaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3299CF54-7858-E677-7F8E-7B9B3E60B7DC}|LoanTable.Application\\LoanTable.Application.csproj|c:\\users\\aniket\\downloads\\microservices\\microservices\\loantable\\loantable.application\\dto\\sanctionclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3299CF54-7858-E677-7F8E-7B9B3E60B7DC}|LoanTable.Application\\LoanTable.Application.csproj|solutionrelative:loantable.application\\dto\\sanctionclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3299CF54-7858-E677-7F8E-7B9B3E60B7DC}|LoanTable.Application\\LoanTable.Application.csproj|c:\\users\\aniket\\downloads\\microservices\\microservices\\loantable\\loantable.application\\dto\\getloanclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3299CF54-7858-E677-7F8E-7B9B3E60B7DC}|LoanTable.Application\\LoanTable.Application.csproj|solutionrelative:loantable.application\\dto\\getloanclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14788134-FFE2-4D3E-DE0F-75489D251BE5}|LoanTable\\LoanTable.csproj|c:\\users\\aniket\\downloads\\microservices\\microservices\\loantable\\loantable\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14788134-FFE2-4D3E-DE0F-75489D251BE5}|LoanTable\\LoanTable.csproj|solutionrelative:loantable\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14788134-FFE2-4D3E-DE0F-75489D251BE5}|LoanTable\\LoanTable.csproj|c:\\users\\aniket\\downloads\\microservices\\microservices\\loantable\\loantable\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14788134-FFE2-4D3E-DE0F-75489D251BE5}|LoanTable\\LoanTable.csproj|solutionrelative:loantable\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D258F5-BFA2-6B19-EC87-90653EF333EF}|LoanTable.Domain\\LoanTable.Domain.csproj|c:\\users\\aniket\\downloads\\microservices\\microservices\\loantable\\loantable.domain\\model\\loantables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D258F5-BFA2-6B19-EC87-90653EF333EF}|LoanTable.Domain\\LoanTable.Domain.csproj|solutionrelative:loantable.domain\\model\\loantables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3299CF54-7858-E677-7F8E-7B9B3E60B7DC}|LoanTable.Application\\LoanTable.Application.csproj|c:\\users\\aniket\\downloads\\microservices\\microservices\\loantable\\loantable.application\\dto\\loandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3299CF54-7858-E677-7F8E-7B9B3E60B7DC}|LoanTable.Application\\LoanTable.Application.csproj|solutionrelative:loantable.application\\dto\\loandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14788134-FFE2-4D3E-DE0F-75489D251BE5}|LoanTable\\LoanTable.csproj|c:\\users\\aniket\\downloads\\microservices\\microservices\\loantable\\loantable\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14788134-FFE2-4D3E-DE0F-75489D251BE5}|LoanTable\\LoanTable.csproj|solutionrelative:loantable\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3299CF54-7858-E677-7F8E-7B9B3E60B7DC}|LoanTable.Application\\LoanTable.Application.csproj|c:\\users\\aniket\\downloads\\microservices\\microservices\\loantable\\loantable.application\\interfaces\\iloanrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3299CF54-7858-E677-7F8E-7B9B3E60B7DC}|LoanTable.Application\\LoanTable.Application.csproj|solutionrelative:loantable.application\\interfaces\\iloanrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0415C8-3AA4-57C6-62F7-E6C3F2DE2121}|LoanTable.Infrastructure\\LoanTable.Infrastructure.csproj|c:\\users\\aniket\\downloads\\microservices\\microservices\\loantable\\loantable.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0415C8-3AA4-57C6-62F7-E6C3F2DE2121}|LoanTable.Infrastructure\\LoanTable.Infrastructure.csproj|solutionrelative:loantable.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3299CF54-7858-E677-7F8E-7B9B3E60B7DC}|LoanTable.Application\\LoanTable.Application.csproj|c:\\users\\aniket\\downloads\\microservices\\microservices\\loantable\\loantable.application\\mapping\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3299CF54-7858-E677-7F8E-7B9B3E60B7DC}|LoanTable.Application\\LoanTable.Application.csproj|solutionrelative:loantable.application\\mapping\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3299CF54-7858-E677-7F8E-7B9B3E60B7DC}|LoanTable.Application\\LoanTable.Application.csproj|c:\\users\\aniket\\downloads\\microservices\\microservices\\loantable\\loantable.application\\dto\\branchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3299CF54-7858-E677-7F8E-7B9B3E60B7DC}|LoanTable.Application\\LoanTable.Application.csproj|solutionrelative:loantable.application\\dto\\branchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3299CF54-7858-E677-7F8E-7B9B3E60B7DC}|LoanTable.Application\\LoanTable.Application.csproj|c:\\users\\aniket\\downloads\\microservices\\microservices\\loantable\\loantable.application\\dto\\getsanctiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3299CF54-7858-E677-7F8E-7B9B3E60B7DC}|LoanTable.Application\\LoanTable.Application.csproj|solutionrelative:loantable.application\\dto\\getsanctiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3299CF54-7858-E677-7F8E-7B9B3E60B7DC}|LoanTable.Application\\LoanTable.Application.csproj|c:\\users\\aniket\\downloads\\microservices\\microservices\\loantable\\loantable.application\\dto\\repaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3299CF54-7858-E677-7F8E-7B9B3E60B7DC}|LoanTable.Application\\LoanTable.Application.csproj|solutionrelative:loantable.application\\dto\\repaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3299CF54-7858-E677-7F8E-7B9B3E60B7DC}|LoanTable.Application\\LoanTable.Application.csproj|c:\\users\\aniket\\downloads\\microservices\\microservices\\loantable\\loantable.application\\dto\\loantypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3299CF54-7858-E677-7F8E-7B9B3E60B7DC}|LoanTable.Application\\LoanTable.Application.csproj|solutionrelative:loantable.application\\dto\\loantypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3299CF54-7858-E677-7F8E-7B9B3E60B7DC}|LoanTable.Application\\LoanTable.Application.csproj|c:\\users\\aniket\\downloads\\microservices\\microservices\\loantable\\loantable.application\\dto\\getcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3299CF54-7858-E677-7F8E-7B9B3E60B7DC}|LoanTable.Application\\LoanTable.Application.csproj|solutionrelative:loantable.application\\dto\\getcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14788134-FFE2-4D3E-DE0F-75489D251BE5}|LoanTable\\LoanTable.csproj|c:\\users\\aniket\\downloads\\microservices\\microservices\\loantable\\loantable\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14788134-FFE2-4D3E-DE0F-75489D251BE5}|LoanTable\\LoanTable.csproj|solutionrelative:loantable\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0415C8-3AA4-57C6-62F7-E6C3F2DE2121}|LoanTable.Infrastructure\\LoanTable.Infrastructure.csproj|c:\\users\\aniket\\downloads\\microservices\\microservices\\loantable\\loantable.infrastructure\\migrations\\20260216112155_loanstables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0415C8-3AA4-57C6-62F7-E6C3F2DE2121}|LoanTable.Infrastructure\\LoanTable.Infrastructure.csproj|solutionrelative:loantable.infrastructure\\migrations\\20260216112155_loanstables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3299CF54-7858-E677-7F8E-7B9B3E60B7DC}|LoanTable.Application\\LoanTable.Application.csproj|c:\\users\\aniket\\downloads\\microservices\\microservices\\loantable\\loantable.application\\loantable.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3299CF54-7858-E677-7F8E-7B9B3E60B7DC}|LoanTable.Application\\LoanTable.Application.csproj|solutionrelative:loantable.application\\loantable.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0415C8-3AA4-57C6-62F7-E6C3F2DE2121}|LoanTable.Infrastructure\\LoanTable.Infrastructure.csproj|c:\\users\\aniket\\downloads\\microservices\\microservices\\loantable\\loantable.infrastructure\\loantable.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C0415C8-3AA4-57C6-62F7-E6C3F2DE2121}|LoanTable.Infrastructure\\LoanTable.Infrastructure.csproj|solutionrelative:loantable.infrastructure\\loantable.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1948313171:0:{81164725-9a96-4ece-a4cb-440d8fd285e5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoanAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Infrastructure\\Repository\\LoanAccountService.cs",
+              "RelativeDocumentMoniker": "LoanTable.Infrastructure\\Repository\\LoanAccountService.cs",
+              "ToolTip": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Infrastructure\\Repository\\LoanAccountService.cs",
+              "RelativeToolTip": "LoanTable.Infrastructure\\Repository\\LoanAccountService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwDcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T11:06:46.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoanTables.cs",
+              "DocumentMoniker": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Domain\\Model\\LoanTables.cs",
+              "RelativeDocumentMoniker": "LoanTable.Domain\\Model\\LoanTables.cs",
+              "ToolTip": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Domain\\Model\\LoanTables.cs",
+              "RelativeToolTip": "LoanTable.Domain\\Model\\LoanTables.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwDsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T10:14:41.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LoanTable\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LoanTable\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-18T18:35:49.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ILoanRepo.cs",
+              "DocumentMoniker": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Application\\Interfaces\\ILoanRepo.cs",
+              "RelativeDocumentMoniker": "LoanTable.Application\\Interfaces\\ILoanRepo.cs",
+              "ToolTip": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Application\\Interfaces\\ILoanRepo.cs",
+              "RelativeToolTip": "LoanTable.Application\\Interfaces\\ILoanRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T15:27:31.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable\\Program.cs",
+              "RelativeDocumentMoniker": "LoanTable\\Program.cs",
+              "ToolTip": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable\\Program.cs",
+              "RelativeToolTip": "LoanTable\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T09:34:46.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SanctionClient.cs",
+              "DocumentMoniker": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Application\\DTO\\SanctionClient.cs",
+              "RelativeDocumentMoniker": "LoanTable.Application\\DTO\\SanctionClient.cs",
+              "ToolTip": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Application\\DTO\\SanctionClient.cs",
+              "RelativeToolTip": "LoanTable.Application\\DTO\\SanctionClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T09:51:23.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoanController.cs",
+              "DocumentMoniker": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable\\Controllers\\LoanController.cs",
+              "RelativeDocumentMoniker": "LoanTable\\Controllers\\LoanController.cs",
+              "ToolTip": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable\\Controllers\\LoanController.cs",
+              "RelativeToolTip": "LoanTable\\Controllers\\LoanController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T11:33:01.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoanDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Application\\DTO\\LoanDTO.cs",
+              "RelativeDocumentMoniker": "LoanTable.Application\\DTO\\LoanDTO.cs",
+              "ToolTip": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Application\\DTO\\LoanDTO.cs",
+              "RelativeToolTip": "LoanTable.Application\\DTO\\LoanDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T10:42:07.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MapperConfig.cs",
+              "DocumentMoniker": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Application\\Mapping\\MapperConfig.cs",
+              "RelativeDocumentMoniker": "LoanTable.Application\\Mapping\\MapperConfig.cs",
+              "ToolTip": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Application\\Mapping\\MapperConfig.cs",
+              "RelativeToolTip": "LoanTable.Application\\Mapping\\MapperConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T10:52:41.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetLoanClient.cs",
+              "DocumentMoniker": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Application\\DTO\\GetLoanClient.cs",
+              "RelativeDocumentMoniker": "LoanTable.Application\\DTO\\GetLoanClient.cs",
+              "ToolTip": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Application\\DTO\\GetLoanClient.cs",
+              "RelativeToolTip": "LoanTable.Application\\DTO\\GetLoanClient.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:15:19.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LoanTable\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable\\appsettings.Development.json",
+              "RelativeToolTip": "LoanTable\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-20T09:33:39.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoantypeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Application\\DTO\\LoantypeDTO.cs",
+              "RelativeDocumentMoniker": "LoanTable.Application\\DTO\\LoantypeDTO.cs",
+              "ToolTip": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Application\\DTO\\LoantypeDTO.cs",
+              "RelativeToolTip": "LoanTable.Application\\DTO\\LoantypeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T13:56:27.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LoanTable.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LoanTable.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T10:56:14.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable\\appsettings.json",
+              "RelativeDocumentMoniker": "LoanTable\\appsettings.json",
+              "ToolTip": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable\\appsettings.json",
+              "RelativeToolTip": "LoanTable\\appsettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAgAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-16T11:10:37.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetSanctionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Application\\DTO\\GetSanctionDTO.cs",
+              "RelativeDocumentMoniker": "LoanTable.Application\\DTO\\GetSanctionDTO.cs",
+              "ToolTip": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Application\\DTO\\GetSanctionDTO.cs",
+              "RelativeToolTip": "LoanTable.Application\\DTO\\GetSanctionDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T14:53:08.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BranchDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Application\\DTO\\BranchDTO.cs",
+              "RelativeDocumentMoniker": "LoanTable.Application\\DTO\\BranchDTO.cs",
+              "ToolTip": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Application\\DTO\\BranchDTO.cs",
+              "RelativeToolTip": "LoanTable.Application\\DTO\\BranchDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T14:16:05.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RepaymentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Application\\DTO\\RepaymentDTO.cs",
+              "RelativeDocumentMoniker": "LoanTable.Application\\DTO\\RepaymentDTO.cs",
+              "ToolTip": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Application\\DTO\\RepaymentDTO.cs",
+              "RelativeToolTip": "LoanTable.Application\\DTO\\RepaymentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T15:44:20.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetCustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Application\\DTO\\GetCustomerDto.cs",
+              "RelativeDocumentMoniker": "LoanTable.Application\\DTO\\GetCustomerDto.cs",
+              "ToolTip": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Application\\DTO\\GetCustomerDto.cs",
+              "RelativeToolTip": "LoanTable.Application\\DTO\\GetCustomerDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T17:21:39.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "LoanTable\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable\\ApiResponse.cs",
+              "RelativeToolTip": "LoanTable\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T05:17:32.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20260216112155_LoansTables.cs",
+              "DocumentMoniker": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Infrastructure\\Migrations\\20260216112155_LoansTables.cs",
+              "RelativeDocumentMoniker": "LoanTable.Infrastructure\\Migrations\\20260216112155_LoansTables.cs",
+              "ToolTip": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Infrastructure\\Migrations\\20260216112155_LoansTables.cs",
+              "RelativeToolTip": "LoanTable.Infrastructure\\Migrations\\20260216112155_LoansTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T11:21:56.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoanTable.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Application\\LoanTable.Application.csproj",
+              "RelativeDocumentMoniker": "LoanTable.Application\\LoanTable.Application.csproj",
+              "ToolTip": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Application\\LoanTable.Application.csproj",
+              "RelativeToolTip": "LoanTable.Application\\LoanTable.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-16T10:43:05.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoanTable.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Infrastructure\\LoanTable.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "LoanTable.Infrastructure\\LoanTable.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\aniket\\Downloads\\Microservices\\Microservices\\LoanTable\\LoanTable.Infrastructure\\LoanTable.Infrastructure.csproj",
+              "RelativeToolTip": "LoanTable.Infrastructure\\LoanTable.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-16T10:28:32.855Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 445,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -358,3 +358,4 @@ C:\Users\aniket\Downloads\Microservices\Microservices\LoanTable\LoanTable\obj\De
 C:\Users\aniket\Downloads\Microservices\Microservices\LoanTable\LoanTable\obj\Debug\net8.0\LoanTable.csproj.Up2Date
 C:\Users\aniket\Downloads\Microservices\Microservices\LoanTable\LoanTable\obj\Debug\net8.0\LoanTable.genruntimeconfig.cache
 C:\Users\aniket\Downloads\Microservices\Microservices\LoanTable\LoanTable\obj\Debug\net8.0\ref\LoanTable.dll
+C:\Users\aniket\Downloads\Microservices\Microservices\LoanTable\LoanTable\obj\Debug\net8.0\LoanTable.sourcelink.json

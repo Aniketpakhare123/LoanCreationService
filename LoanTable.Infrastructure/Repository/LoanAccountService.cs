@@ -33,7 +33,7 @@ namespace LoanTable.Infrastructure.Repository
     }
 
         public async Task<LoanDTO> CreateLoanAsync(CreateLoanRequest req)
-        {
+         {
 
            if (req == null) {
               throw new Exception ("request not found");

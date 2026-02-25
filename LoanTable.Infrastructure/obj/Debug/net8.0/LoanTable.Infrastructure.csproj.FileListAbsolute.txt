@@ -36,3 +36,4 @@ C:\Users\aniket\Downloads\Microservices\Microservices\LoanTable\LoanTable.Infras
 C:\Users\aniket\Downloads\Microservices\Microservices\LoanTable\LoanTable.Infrastructure\obj\Debug\net8.0\LoanTable.Infrastructure.pdb
 C:\Users\aniket\Downloads\Microservices\Microservices\LoanTable\LoanTable.Infrastructure\obj\Debug\net8.0\LoanTable.Infrastructure.genruntimeconfig.cache
 C:\Users\aniket\Downloads\Microservices\Microservices\LoanTable\LoanTable.Infrastructure\obj\Debug\net8.0\ref\LoanTable.Infrastructure.dll
+C:\Users\aniket\Downloads\Microservices\Microservices\LoanTable\LoanTable.Infrastructure\obj\Debug\net8.0\LoanTable.Infrastructure.sourcelink.json

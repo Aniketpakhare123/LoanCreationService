@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoanTable")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b48ad60d8aa673b60096c6c79378a85fb87d80e")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoanTable")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoanTable")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

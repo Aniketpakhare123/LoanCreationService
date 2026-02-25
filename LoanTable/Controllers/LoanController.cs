@@ -24,7 +24,7 @@ namespace LoanTable.Controllers
     [Route("/create")]
     public async Task<IActionResult> createLoans(CreateLoanRequest req)
     {
-      var pdata = repo.CreateLoanAsync(req);
+      var pdata = await repo.CreateLoanAsync(req);
       return Ok(new { message = "Loan created Successfully" });
     }
 

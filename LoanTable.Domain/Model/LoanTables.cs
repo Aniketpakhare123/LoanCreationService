@@ -66,7 +66,7 @@ namespace LoanTable.Domain.Model
    public DateTime CreatedAt { get; set; }
    public DateTime ModifiedAt { get; set; }
    public string CreatedBy { get; set; }
-   public string DeletedBy { get; set; }
+   public string? DeletedBy { get; set; }
 
 
   }

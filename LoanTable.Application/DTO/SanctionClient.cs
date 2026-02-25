@@ -13,7 +13,7 @@ namespace LoanTable.Application.DTO
 
         public async Task<GetSanctionDTO> GetSanctionDetails(int id)
         {
-            var response = await client.GetFromJsonAsync<SanctionApiResponse<GetSanctionDTO>>($"/api/Sanction/{id}");
+            var response = await client.GetFromJsonAsync<SanctionApiResponse<GetSanctionDTO>>($"/api/Sanctions/{id}");
             return response?.Data;
         }
     }

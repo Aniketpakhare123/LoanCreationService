@@ -9,7 +9,7 @@ namespace LoanTable.Application.DTO
 {
   public class  GetSanctionDTO
   {
-    public int id { get; set; }
+    public int sanctionId{ get; set; }
 
     public int dealid { get; set; }
 
@@ -25,7 +25,7 @@ namespace LoanTable.Application.DTO
 
     public DateTime createdAt { get; set; }
 
-    public List<RepaymentDTO>? RepaymentSchedule { get; set; }
+    //public List<RepaymentDTO>? RepaymentSchedule { get; set; }
 
     public DateTime? AcceptedDate { get; set;} 
 

@@ -12,9 +12,9 @@ namespace LoanTable.Application.DTO
     public int LoanId { get; set; }
     public int DealId { get; set; }
     public int SanctionId { get; set; }
-    public int DisbursementId { get; set; }
-    public int CustomerId { get; set; }
-    public int ScorecardId { get; set; }
+    public int disbursementId { get; set; }
+    public int custId { get; set; }
+    public int scorecardId { get; set; }
     public int LoanTypeId { get; set; }
     public int? BranchId { get; set; }
     public string? SanctionNo { get; set; }
@@ -46,7 +46,7 @@ namespace LoanTable.Application.DTO
     public string CreatedBy { get; set; }
 
     public decimal eligibleAmount { get; set; }
-    public string deletedBy { get; set; }
+    public string? deletedBy { get; set; }
 
   }
 

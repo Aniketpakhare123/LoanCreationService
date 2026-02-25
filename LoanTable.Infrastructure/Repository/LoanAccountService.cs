@@ -45,17 +45,18 @@ namespace LoanTable.Infrastructure.Repository
            var type = await originationClient.GetLoanTypes(req.LoanTypeId);
         
             if (deal.DealId == null) { return null; }
-            if(sanction.id== null) { return null; }
+            if(sanction.sanctionId== null) { return null; }
             if(type.id ==null) { return null; }
          //adding validation to validate data coming from Apis
       
         var loan = new LoanTables
         {
           dealId = sanction.dealid,
-          sanctionId = sanction.id,
+          sanctionId = sanction.sanctionId,
           sanctionedAmount = sanction.loanAmount,
           sanctionNo = sanction.sanctionNo,
-          customerId = deal.CustomerId,
+          customerId = deal.custId,
+          scoreCardId = deal.scorecardId,
           DisbursedAmount = deal.eligibleAmount,
           DisbursementDate = DateTime.Now,
           tenureMonths = sanction.tenuremonths,
@@ -66,18 +67,18 @@ namespace LoanTable.Infrastructure.Repository
           maturityDate = sanction.createdAt.AddMonths(2),
           branchId = req.BranchId,
           loanTypeId = req.LoanTypeId,
-          disbursementId = deal.DisbursementId,
+          disbursementId = req.DisbursementId,
           outstandingPrincipal = sanction.loanAmount,
           outstandingInterest = 0,
           totalOutstanding = sanction.loanAmount,
-          AccountStatus = sanction.currentStatus,
+          AccountStatus ="Active",
           remainingTenure = sanction.tenuremonths,
           dpd = 0,
           TransactionReference =  string.Empty,
           CreatedAt = DateTime.Now,
           ModifiedAt = DateTime.Now,
           CreatedBy = "Aniket",
-          DeletedBy = "Aniket"
+          DeletedBy ="Aniket",
         };
 
             db.Loans.Add(loan);

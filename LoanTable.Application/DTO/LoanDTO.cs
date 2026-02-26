@@ -110,14 +110,17 @@ namespace LoanTable.Application.DTO
     public int Dpd { get; set; }
     public string AccountStatus { get; set; }
   }
+
   public class UpdateLoanStatusRequest
   {
     [Required]
     public string Status { get; set; }
   }
 
-
-
-
-
+  public class UpdateAfterPaymentRequest
+  {
+    public decimal PrincipalPaid { get; set; }
+    public decimal InterestPaid { get; set; }
+    public DateTime PaymentDate { get; set; }
+  }
 }

@@ -3,7 +3,6 @@ using LoanTable.Application.DTO;
 using LoanTable.Application.Interfaces;
 using LoanTable.Domain.Model;
 using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
 namespace LoanTable.Controllers
@@ -17,7 +16,6 @@ namespace LoanTable.Controllers
     public LoanController(ILoanRepo repo)
     {
       this.repo = repo;
-
     }
 
     [HttpPost]
@@ -28,11 +26,10 @@ namespace LoanTable.Controllers
       return Ok(new { message = "Loan created Successfully" });
     }
 
-   
-
     [HttpGet]
     [Route("{id}")]
-    public async Task<IActionResult> getLoansById(int id) {
+    public async Task<IActionResult> getLoansById(int id)
+    {
       var data = await repo.GetLoanByIdAsync(id);
       var response = new ApiResponse<object>
       {
@@ -43,21 +40,18 @@ namespace LoanTable.Controllers
         Errors = null,
         Meta = new { Timestamp = DateTime.UtcNow }
       };
-      return Ok(response); 
+      return Ok(response);
     }
 
     [HttpGet]
     [Route("/loans/{id}/schedule")]
     public async Task<IActionResult> getEmiSchedule(int id)
     {
-      //var data = await repo.GetEmiScheduleAsync(id);
-
       var response = new ApiResponse<object>
       {
         Success = true,
         StatusCode = 200,
         Message = "Schedule retrieved successfully",
-        //Data = data,
         Errors = null,
         Meta = new { Timestamp = DateTime.UtcNow }
       };
@@ -66,8 +60,8 @@ namespace LoanTable.Controllers
 
     [HttpGet]
     [Route("/customer/{id}")]
-
-    public async Task<IActionResult> getLoanByCustomer(int id) {
+    public async Task<IActionResult> getLoanByCustomer(int id)
+    {
       var data = await repo.GetLoansByCustomerAsync(id);
 
       var response = new ApiResponse<object>
@@ -85,8 +79,9 @@ namespace LoanTable.Controllers
 
     [HttpGet]
     [Route("/GetBallance/{id}")]
-    public async Task<IActionResult> getbalance(int id) {
-       var data = await repo.GetBalanceAsync(id);
+    public async Task<IActionResult> getbalance(int id)
+    {
+      var data = await repo.GetBalanceAsync(id);
       var response = new ApiResponse<object>
       {
         Success = true,
@@ -118,10 +113,10 @@ namespace LoanTable.Controllers
 
     [HttpPatch]
     [Route("/update/{id}")]
-    public async Task <IActionResult> updateStatus(int id,string status)
+    public async Task<IActionResult> updateStatus(int id, string status)
     {
-      var data = await repo.UpdateStatusAsync(id,status);
-      return Ok(new {message ="Customer status updated Successfully" });
+      var data = await repo.UpdateStatusAsync(id, status);
+      return Ok(new { message = "Customer status updated Successfully" });
     }
 
     [HttpGet]
@@ -141,5 +136,14 @@ namespace LoanTable.Controllers
       return Ok(response);
     }
 
+    [HttpPut]
+    [Route("/api/Loan/{loanId}/after-payment")]
+    public async Task<IActionResult> UpdateAfterPayment(int loanId, [FromBody] UpdateAfterPaymentRequest request)
+    {
+      var result = await repo.UpdateAfterPaymentAsync(loanId, request.PrincipalPaid, request.InterestPaid, request.PaymentDate);
+      if (!result)
+        return NotFound(new { message = "Loan not found." });
+      return Ok(new { message = "Loan balances updated after payment." });
+    }
   }
 }

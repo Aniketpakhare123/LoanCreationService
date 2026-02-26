@@ -8,5 +8,6 @@ namespace LoanTable
     public T Data { get; set; }
     public object Errors { get; set; }
     public object Meta { get; set; }
+    //
   }
 }

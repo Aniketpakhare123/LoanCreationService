@@ -69,6 +69,7 @@ namespace LoanTable.Domain.Model
    public string? DeletedBy { get; set; }
 
 
+
   }
 
 }
